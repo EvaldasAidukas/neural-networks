@@ -1,0 +1,6 @@
+class DataViewer{
+    constructor(divId){
+        
+    }
+
+}
