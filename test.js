@@ -1,5 +1,3 @@
-console.log( 'atek' );
-
 let a  = tf.tensor2d([4,2,2,1,4,0],[3,2]);
 let b  = tf.tensor2d([4,2,2,1,1,1],[2,3]);
 
